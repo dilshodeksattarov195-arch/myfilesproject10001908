@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordalculate",
+        "uuid": 12888540,
+        "checksum": "7srpx6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
